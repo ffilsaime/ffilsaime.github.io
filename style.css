@@ -1,12 +1,21 @@
-<link rel="stylesheet" href="index.html">
-
 body {
-  background-color: rgb(127, 255, 212);
+  background-color: aquamarine;
   }
 p {
   color: rgb(128, 223, 255);
   font-size: 14px;
   text-align: center;
 }
-    
- 
+ul{
+  text-align: center;
+  font-size: 14px;
+}
+h1 {
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
