@@ -1,7 +1,10 @@
 body {
   background-color: rgb(136, 45, 96);;
   }
-p.center {
+p {
+  text-align: center;
+  height:auto;
+  width: auto;
   color: rgb(205, 136, 175);
   font-size: 16px;
 }
