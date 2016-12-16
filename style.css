@@ -19,17 +19,17 @@ p{
 h1 {
   text-align: center;
   color: rgb(102, 17, 65);
-  font-family: "Georgia", Times, serif;
+  font-family: 'Molle', cursive;
 }
 h2{
   text-align: center;
   color: rgb(170, 85, 133);
-  font-family: "Georgia", Times, serif;
+  font-family: 'Molle', cursive;
 }
 h3{
   text-align: center;
   color: rgb(170, 85, 133);
-  font-family: "Georgia", Times, serif;
+  font-family: 'Molle', cursive;
 }
 button{
   background-color: rgb(68, 0, 38);
