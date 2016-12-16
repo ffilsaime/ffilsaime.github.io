@@ -19,14 +19,17 @@ p.serif {
 h1 {
   text-align: center;
   color: rgb(102, 17, 65);
+  font-family: "Georgia", Times, serif;
 }
 h2{
   text-align: center;
   color: rgb(170, 85, 133);
+  font-family: "Georgia", Times, serif;
 }
 h3{
   text-align: center;
   color: rgb(170, 85, 133);
+  font-family: "Georgia", Times, serif;
 }
 button{
   background-color: rgb(68, 0, 38);
