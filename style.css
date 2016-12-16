@@ -2,8 +2,6 @@ body {
   background-color: rgb(136, 45, 96);;
   }
 p.center {
-  max-width: 700px;
-  height: 100px;
   color: rgb(205, 136, 175);
   font-size: 16px;
 }
