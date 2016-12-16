@@ -1,7 +1,8 @@
 body {
   background-color: rgb(136, 45, 96);;
   }
-p {
+p.serif {
+  font-family: "Georgia", Times, serif;
   text-align: center;
   height:auto;
   width: auto;
@@ -28,9 +29,4 @@ h2{
 h3{
   text-align: center;
   color: rgb(170, 85, 133);
-}
-img{
-  display: block;
-  margin: auto;
-  width: 40%;
 }
