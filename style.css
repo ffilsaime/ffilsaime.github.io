@@ -9,14 +9,12 @@ p.serif {
   color: rgb(205, 136, 175);
   font-size: 16px;
 }
-ul.center{
-  list-style-type: square;
-  list-style-position: inside;
-}
-ul li{
+.my-interests ul li{
   font-size: 16px;
   text-align: center;
   color: rgb(205, 136, 175);
+  list-style-position: inside;
+  list-style-type: square;
 }
 h1 {
   text-align: center;
@@ -29,4 +27,7 @@ h2{
 h3{
   text-align: center;
   color: rgb(170, 85, 133);
+}
+button{
+  background-color: rgb(68, 0, 38);
 }
