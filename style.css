@@ -29,6 +29,8 @@ h3{
   text-align: center;
   color: rgb(170, 85, 133);
 }
-img.center{
-
+img{
+  display: block;
+  margin: auto;
+  width: 40%;
 }
